@@ -1,0 +1,1 @@
+0 2 * * * /bin/bash /path/to/task-26/scripts/backup.sh >> /var/log/app_backup.log 2>&1
